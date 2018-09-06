@@ -1,0 +1,42 @@
+   #P1 {
+            font-size: 48px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+    #P2 {
+            font-size: 48px;
+            color: #FE0000;
+
+        }
+
+    hr {
+            border: solid black 1px;
+        }
+
+    a{
+            color: #FE0000;
+            text-decoration: underline;
+        }
+
+    a:hover{
+            color: #FE0000;
+        }
+
+    #P3{
+            text-decoration: underline;
+            font-size: 48px;
+        }
+
+    #P4 {
+            text-decoration: underline;
+            font-weight: bold;
+            font-size: 30px;
+            margin-bottom: 0px;
+        }
+    #button {
+        text-align: center;
+        margin-top: 50px;
+    }
+        /* label{
+            margin-bottom: 0px;
+        } */
